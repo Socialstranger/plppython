@@ -1,0 +1,6 @@
+This is the first line of the file.
+Here is a number: 12345
+And here is another line with some text.
+Appending the first additional line.
+Here is the second additional line.
+And this is the third additional line.
